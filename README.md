@@ -2,6 +2,8 @@
 
 This is ICFP 2006 um32 implementation in golang.
 
+You can find more about contest here http://www.boundvariable.org/
+
 ### Sandmark output
 
 
